@@ -1,5 +1,5 @@
 ### Hi there 👋
-Professional bridge builder, with high experience in local government (currently on ViceChairman position) looking to improve technical and creative skills. In exchange for the lack of commercial experience, I offer high qualifications in interpersonal contacts and group management, the ability to quickly find solutions and a strong attitude to perform assigned tasks ;) 
+Professional bridge builder, with extensive experience in local government (currently on Vice-Chairman position) looking to improve technical and creative skills. In exchange for the lack of commercial experience, I offer high qualifications in interpersonal contacts and group management, the ability to quickly find solutions and a strong attitude to perform assigned tasks ;) 
 
 - 🔭 I’m currently working on My Personal Webside
 - 📫 How to reach me: 

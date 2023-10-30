@@ -1,5 +1,10 @@
 ### Hi there 👋
+Professional bridge builder, with high experience in local government (currently on ViceChairman position) looking to improve technical and creative skills. In exchange for the lack of commercial experience, I offer high qualifications in interpersonal contacts and group management, the ability to quickly find solutions and a strong attitude to perform assigned tasks ;) 
 
+- 🔭 I’m currently working on My Personal Webside
+- 📫 How to reach me: 
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-migda%C5%82-92586a298/)
 <!--
 **WoytekMig/WoytekMig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
